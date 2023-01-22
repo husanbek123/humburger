@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/humburger/static/css/main.5ec081ab.css",
+    "main.css": "/humburger/static/css/main.6c5d2e1e.css",
     "main.js": "/humburger/static/js/main.a178f56e.js",
     "static/js/787.2dfb736e.chunk.js": "/humburger/static/js/787.2dfb736e.chunk.js",
     "index.html": "/humburger/index.html",
-    "main.5ec081ab.css.map": "/humburger/static/css/main.5ec081ab.css.map",
+    "main.6c5d2e1e.css.map": "/humburger/static/css/main.6c5d2e1e.css.map",
     "main.a178f56e.js.map": "/humburger/static/js/main.a178f56e.js.map",
     "787.2dfb736e.chunk.js.map": "/humburger/static/js/787.2dfb736e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ec081ab.css",
+    "static/css/main.6c5d2e1e.css",
     "static/js/main.a178f56e.js"
   ]
 }
