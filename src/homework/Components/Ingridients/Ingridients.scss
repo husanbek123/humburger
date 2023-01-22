@@ -1,0 +1,35 @@
+
+
+#burger-ingriedients {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    min-height: 10px;
+
+    .green, .tomato, .cheese, .meat {
+        border-radius: 20px;
+    }
+    
+    .green {
+        background-color: rgba(30,233,40,.76);
+        height: 25px;
+        width: 100%;
+    }
+    .tomato {
+        background-color: red;
+        height: 15px;
+        width: 85%;
+    }
+    .cheese {
+        background-color: rgba(231,202,38,.829);
+        height: 15px;
+        width: 75%;
+    }
+    .meat {
+        background-color: #be5600;
+        height: 20px;
+        width: 85%;
+    }
+    
+}
